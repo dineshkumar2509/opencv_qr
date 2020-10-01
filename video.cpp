@@ -6,6 +6,7 @@
 #include <opencv2/opencv.hpp>
 #include <iostream>
 #include <cmath>
+#include<stdlib>
 
 using namespace cv;
 using namespace std;
